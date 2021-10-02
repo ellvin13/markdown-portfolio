@@ -1,5 +1,3 @@
-<ol>
-  <li>one</li>
-  <li>two</li>
-  <li>three</li>
-</ol>
+- one
+- two
+- three
